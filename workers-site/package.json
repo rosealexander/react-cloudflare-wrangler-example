@@ -1,0 +1,13 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "React + Cloudflare Workers template",
+  "main": "index.js",
+  "author": "Alexander Rose",
+  "license": "MIT",
+  "dependencies": {
+    "@cloudflare/kv-asset-handler": "0.1.2",
+    "itty-router": "2.6.1",
+    "uid": "2.0.0"
+  }
+}
